@@ -2,7 +2,7 @@ class Mobile {
     _pin;
     _message;
     _inbox;
-    outbox;
+    _outbox;
     status;
 
     constructor() {
